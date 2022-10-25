@@ -3,7 +3,7 @@
         "id": "fswd-1",
         "name": "Full Stack Web Development HTML, CSS, Bootstrap and React JS",
         "description": "Learn Web Development from scratch. HTML, CSS, Bootstrap, React JS and more! All in one in this course.",
-        "image": "../assets/images/fswd-1.jpg",
+        "img": "https://i.ibb.co/HT4cNF6/fswd-1.jpg",
         "rating": 4.5,
         "enrolled": 328,
         "overview": [
@@ -17,7 +17,7 @@
         "id": "mern-1",
         "name": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
         "description": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course.",
-        "image": "../assets/images/mern-1.png",
+        "img": "https://i.ibb.co/Y0Kd0FN/mern-1.png",
         "rating": 4.6,
         "enrolled": 4688,
         "overview": [
@@ -31,7 +31,7 @@
         "id": "mongodb-1",
         "name": "MongoDB : A Complete Database Administration Course",
         "description": "Designed specifically for database administrators who work on RDBMS like Oracle, SQL Server, MySQL, Postgresql.",
-        "image": "../assets/images/mongodb-1.png",
+        "img": "https://i.ibb.co/9ckMXk2/mongodb-1.png",
         "rating": 4.1,
         "enrolled": 941,
         "overview": [
@@ -45,7 +45,7 @@
         "id": "nodemongo-1",
         "name": "Build NodeJS applications with Mongodb",
         "description": "Learn to build fullstack web applications with the most popular server side framework, NodeJS.",
-        "image": "../assets/images/nodemongo-1.png",
+        "img": "https://i.ibb.co/tqx7fGh/nodemongo-1.png",
         "rating": 4.4,
         "enrolled": 2434,
         "overview": [
@@ -59,7 +59,7 @@
         "id": "tailwind-1",
         "name": "Tailwind CSS From Scratch | Learn By Building Projects",
         "description": "Build great looking layouts fast and efficiently using Tailwind CSS utility classes.",
-        "image": "../assets/images/tailwind-1.jpg",
+        "img": "https://i.ibb.co/hff2pqh/tailwind-1.jpg",
         "rating": 4.7,
         "enrolled": 627,
         "overview": [
@@ -73,7 +73,7 @@
         "id": "responsive-1",
         "name": "Build Responsive Websites with Modern HTML & CSS",
         "description": "Learn HTML5, CSS3 and web design by building real world websites with flexbox, grid and sass.",
-        "image": "../assets/images/responsive-1.jpeg",
+        "img": "https://i.ibb.co/bKYQc1r/responsive-1.jpg",
         "rating": 4.7,
         "enrolled": 442,
         "overview": [
