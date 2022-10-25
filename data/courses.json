@@ -1,0 +1,86 @@
+[
+    {
+        "id": "fswd-1",
+        "name": "Full Stack Web Development HTML, CSS, Bootstrap and React JS",
+        "description": "Learn Web Development from scratch. HTML, CSS, Bootstrap, React JS and more! All in one in this course.",
+        "image": "../assets/images/fswd-1.jpg",
+        "rating": 4.5,
+        "enrolled": 328,
+        "overview": [
+            "Learn to use the latest HTML5 and CSS3 to add unique styling to Bootstrap.",
+            "Learn Bootstrap 4 and UIs from scratch.",
+            "This course is the best way to learn React JS or React.",
+            "Learn how to build single page applications with React JS."
+        ]
+    },
+    {
+        "id": "mern-1",
+        "name": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+        "description": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course.",
+        "image": "../assets/images/mern-1.png",
+        "rating": 4.6,
+        "enrolled": 4688,
+        "overview": [
+            "Learn how to connect ReactJS with NodeJS, Express & MongoDB",
+            "Build an entire project from scratch!",
+            "Refresh the basics about ReactJS, NodeJS, Express and MongoDB",
+            "Learn how to implement Authentication & Authorization"
+        ]
+    },
+    {
+        "id": "mongodb-1",
+        "name": "MongoDB : A Complete Database Administration Course",
+        "description": "Designed specifically for database administrators who work on RDBMS like Oracle, SQL Server, MySQL, Postgresql.",
+        "image": "../assets/images/mongodb-1.png",
+        "rating": 4.1,
+        "enrolled": 941,
+        "overview": [
+            "By completing this course , the students will learn MongoDB 4.0 database administration, which includes",
+            "Installation on MongoDB Version 4.0 on Linux",
+            "Creation and Management of Databases",
+            "Creation and Management of Collections and documents"
+        ]
+    },
+    {
+        "id": "nodemongo-1",
+        "name": "Build NodeJS applications with Mongodb",
+        "description": "Learn to build fullstack web applications with the most popular server side framework, NodeJS.",
+        "image": "../assets/images/nodemongo-1.png",
+        "rating": 4.4,
+        "enrolled": 2434,
+        "overview": [
+            "Build high quality applications built with Node, Express and MongoDB",
+            "Storing data with Mongodb database",
+            "Use cutting-edge ES6/ES7 JavaScript",
+            "Create Express web servers"
+        ]
+    },
+    {
+        "id": "tailwind-1",
+        "name": "Tailwind CSS From Scratch | Learn By Building Projects",
+        "description": "Build great looking layouts fast and efficiently using Tailwind CSS utility classes.",
+        "image": "../assets/images/tailwind-1.jpg",
+        "rating": 4.7,
+        "enrolled": 627,
+        "overview": [
+            "Learn to create and edit layouts super fast",
+            "Learn the Tailwind utility classes using a code sandbox",
+            "Build 5 mini-projects and 6 website projects",
+            "Learn how to set up a dev environment using the Tailwind CLI"
+        ]
+    },
+    {
+        "id": "responsive-1",
+        "name": "Build Responsive Websites with Modern HTML & CSS",
+        "description": "Learn HTML5, CSS3 and web design by building real world websites with flexbox, grid and sass.",
+        "image": "../assets/images/responsive-1.jpeg",
+        "rating": 4.7,
+        "enrolled": 442,
+        "overview": [
+            "You will become a modern and confident HTML and CSS developer, no prior knowledge is needed!",
+            "You will learn CSS core concepts such as the box model, positioning schemes, CSS flex, grid, and many more.",
+            "How to plan a website from sketch",
+            "You will able to build real world website"
+        ]
+    }
+]
